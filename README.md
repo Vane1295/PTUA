@@ -1,4 +1,6 @@
-Analysis of cycling in Glasgow pre and post COVID-19 pandemic. Cycling as transport has become a topic of immense interest in the recent past. With the pandemic, travel patterns, especially, cycling in many cities has experienced a paradigm shift. 
+## Analysis of cycling in Glasgow pre and post COVID-19 pandemic. 
+
+Cycling as transport has become a topic of immense interest in the recent past. With the pandemic, travel patterns, especially, cycling in many cities has experienced a paradigm shift. 
 
 The purpose of this research is to determine cycling volume in Glasgow pre and post pandemic? How these cycling levels changed in the pandemic? And how datazone deprivation index impacts the cycling levels? The analysis seeks to understand how cycling as a mode of transport ahs changed as an influence of COVID-19 pandemic.
 
